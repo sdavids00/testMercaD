@@ -1,7 +1,6 @@
 [![build](https://img.shields.io/badge/build-passing-green.svg)]()
 [![dependencies](https://img.shields.io/badge/springboot-v2.3.3-blue.svg)]()
-[![dependencies](https://img.shields.io/badge/quartz-v2.2.2-blue.svg)]()
-[![license](https://shields.io/badge/license-Avanza.quartz.proyect-blue)]()
+[![license](https://shields.io/badge/license-Mercadona.Test.proyect-blue)]()
 
 ---
 
